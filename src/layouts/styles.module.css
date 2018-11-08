@@ -4,3 +4,7 @@
   padding-top: var(--headerHeight);
   min-height: 100vh;
 }
+
+.page a {
+  text-decoration: none;
+}

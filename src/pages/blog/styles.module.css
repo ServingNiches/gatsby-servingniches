@@ -1,0 +1,9 @@
+@import '../../css/variables.css';
+
+a {
+  text-decoration: none;
+}
+
+.contact {
+  padding: 10vh 0;
+}

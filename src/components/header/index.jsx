@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 import Link from 'gatsby-link';
 import 'react-github-button/assets/style.css';
 
-import GitHubButton from 'react-github-button';
 import Hamburger from '../hamburger';
 import Menu from '../menu';
 import Wrapper from '../wrapper';
+import ServingNichesLogo from '../../../static/servingnichesLogo.png';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import styles from './styles.module.css';
 
 export default class Header extends Component {
@@ -23,6 +24,32 @@ export default class Header extends Component {
   componentDidMount() {
     // @TODO: Remove this event listener when menu isn't open.
     document.addEventListener('keydown', this.handleKeyPress);
+
+    // Segment Analytics Tracking
+    const segmentScript = document.createElement('script');
+    segmentScript.innerText = `!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);analytics._loadOptions=e};analytics.SNIPPET_VERSION="4.1.0";
+          analytics.load("ThqLWHXlMxOmfT1Smz1mDI8Uf7irSUMK");
+          analytics.page();
+      }}();`;
+    document.body.appendChild(segmentScript);
+
+    // const jqueryScript = document.createElement('script');
+    // jqueryScript.src = 'https://code.jquery.com/jquery-3.3.1.slim.min.js';
+    // jqueryScript.integrity = 'sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo';
+    // jqueryScript.crossOrigin = 'anonymous';
+    // document.body.appendChild(jqueryScript);
+    //
+    // const popperScript = document.createElement('script');
+    // popperScript.src = 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js';
+    // popperScript.integrity = 'sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49';
+    // popperScript.crossOrigin = 'anonymous';
+    // document.body.appendChild(popperScript);
+
+    // const bootstrapScript = document.createElement('script');
+    // bootstrapScript.src = 'https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js';
+    // bootstrapScript.integrity = 'sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy';
+    // bootstrapScript.crossOrigin = 'anonymous';
+    // document.body.appendChild(bootstrapScript);
   }
 
   toggleMenu(isVisible) {
@@ -42,9 +69,10 @@ export default class Header extends Component {
         <Wrapper>
           <div className={styles.inner}>
             <h1 className={styles.title}>
-              <Link to="/">Oliver Benns</Link>
+              <Link to="/">
+                <img src={ServingNichesLogo} alt="serving niches logo" width={132} height={81} />
+              </Link>
             </h1>
-            <GitHubButton type="stargazers" namespace="oliverbenns" repo="oliverbenns.com" className={styles.github} />
             <Hamburger onClick={() => this.toggleMenu()} active={menuActive} className={styles.hamburger} />
           </div>
         </Wrapper>

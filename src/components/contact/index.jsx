@@ -7,31 +7,26 @@ import styles from './styles.module.css';
 
 const Contact = ({ title }) => (
   <div className={styles.contact}>
-    <h1>{title || 'I like messages.'}</h1>
+    <h1>{title || 'Messages make the world go round.'}</h1>
     <p className={styles.email}>
       Say hello and send an email:<br />
-      <a href="mailto:info@oliverbenns.com?subject=Hello%20Oliver!" className={styles.link}>info@oliverbenns.com</a>
+      <a href="mailto:info@servingniches.com?subject=Hello%20Anup!" className={styles.link}>info@servingniches.com</a>
     </p>
     <div className={styles.lineBreak} />
     <ul className={styles.social}>
       <li>
-        <OutboundLink to="https://github.com/oliverbenns/">
+        <OutboundLink to="https://github.com/servingniches/">
           <Icon name="github" />
         </OutboundLink>
       </li>
       <li>
-        <OutboundLink to="https://www.linkedin.com/in/oliverbenns">
+        <OutboundLink to="https://www.linkedin.com/in/anupvasudevan">
           <Icon name="linkedin" />
         </OutboundLink>
       </li>
       <li>
-        <OutboundLink to="https://twitter.com/oliverbenns/">
+        <OutboundLink to="https://twitter.com/thechronicler/">
           <Icon name="twitter" />
-        </OutboundLink>
-      </li>
-      <li>
-        <OutboundLink to="https://www.instagram.com/oliverbenns">
-          <Icon name="instagram" />
         </OutboundLink>
       </li>
     </ul>

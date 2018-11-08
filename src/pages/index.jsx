@@ -4,25 +4,35 @@ import Link from 'gatsby-link';
 import Fullscreen from '../components/fullscreen';
 import Meta from '../components/meta';
 import Wrapper from '../components/wrapper';
+import TagOneStyleAbout from '../components/tagOneStyleAbout';
+import Footer from '../components/footer';
 
 import styles from './styles.module.css';
 
 const Index = ({ location }) => (
   <div>
     <Meta location={location} />
-    <Fullscreen className={styles.intro} firstItem>
+    <div>
+      <Fullscreen className={styles.intro} firstItem>
+        <Wrapper>
+          <h1>
+          Hi there. I’m Anup Vasudevan.
+            <br />
+            <br />
+          Welcome to Serving Niches.
+            <br />
+            <br />
+          Check out the <Link className={styles.link} to="/blog">blog</Link>.
+          </h1>
+        </Wrapper>
+      </Fullscreen>
+
       <Wrapper>
-        <h1>
-          Hello. I’m Oliver Benns.
-          <br />
-          <br />
-          I’m a freelance web developer.
-          <br />
-          <br />
-          Check out my <Link className={styles.link} to="/work">work</Link>.
-        </h1>
+        <TagOneStyleAbout />
       </Wrapper>
-    </Fullscreen>
+
+      <Footer />
+    </div>
   </div>
 );
 

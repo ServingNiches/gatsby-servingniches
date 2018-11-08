@@ -1,5 +1,13 @@
 @import '../../css/variables.css';
 
+a {
+  text-decoration: none;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
 .menu {
   background: var(--colorBlack);
   color: var(--colorWhite);

@@ -1,9 +1,17 @@
 @import '../../css/variables.css';
 
+.about a {
+  text-decoration: none;
+}
+
 .about {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 5rem;
+}
+
+.intro a {
+  text-decoration: none;
 }
 
 .intro {
