@@ -7,10 +7,10 @@ const projects = [
       android: 'https://play.google.com/store/apps/details?id=com.clickchildcareapp',
     },
     slug: 'click-childcare',
-    title: 'Thesys CAT',
+    title: 'Get Free Books',
     cover: require('./click.png'),
     theme: {
-      background: '#000',
+      background: '#00a5d1',
     },
   },
   {
@@ -20,7 +20,7 @@ const projects = [
       website: 'https://kindynow.com/admin',
     },
     slug: 'kindynow',
-    title: 'Wellington Management',
+    title: 'Transcriber AI',
     cover: require('./kindynow.png'),
     theme: {
       background: '#F7F7F7',
@@ -35,7 +35,7 @@ const projects = [
       website: 'https://www.chadstone.com.au',
     },
     slug: 'chadstone',
-    title: 'Houghton Mifflin Harcourt',
+    title: 'Crypto Soccer',
     cover: require('./chadstone.jpg'),
     theme: {
       background: '#a77e60',
@@ -49,7 +49,7 @@ const projects = [
       website: 'https://lifewithbird.com',
     },
     slug: 'life-with-bird',
-    title: 'T-Mobile',
+    title: 'P2P Marketplace',
     cover: require('./life-with-bird.jpg'),
     theme: {
       background: '#f4f5fa',
@@ -64,7 +64,7 @@ const projects = [
       website: 'https://ahm.com.au',
     },
     slug: 'ahm',
-    title: 'DSW',
+    title: 'Generate An (Optimized) Affiliate Funnel',
     cover: require('./ahm.png'),
     theme: {
       background: '#000',
@@ -77,7 +77,7 @@ const projects = [
       ios: 'https://itunes.apple.com/app/id1165442603',
     },
     slug: 'mr-red',
-    title: 'Mr. Red',
+    title: 'Unnecessary Games',
     cover: require('./mr-red.png'),
     theme: {
       background: '#5ab6ff',

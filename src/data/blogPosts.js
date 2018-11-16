@@ -10,35 +10,7 @@ const projects = [
     title: 'Thesys CAT',
     cover: require('./click.png'),
     theme: {
-      background: '#000',
-    },
-  },
-  {
-    className: 'kindyNow',
-    description: 'Web app to allow childcare centre managers to monitor and control absences, bookings and capacities.',
-    links: {
-      website: 'https://kindynow.com/admin',
-    },
-    slug: 'kindynow',
-    title: 'Wellington Management',
-    cover: require('./kindynow.png'),
-    theme: {
-      background: '#F7F7F7',
-      light: true,
-    },
-  },
-  {
-    className: 'chadstone',
-    description: 'A rebuild of the existing website in line with the unveiling of the mall\'s new shopping, dining & entertainment precincts.',
-    clientDescription: 'Chadstone Shopping Centre is a shopping centre located in the city of Melbourne, Australia. Since opening in 1960, it is now the biggest shopping centre in the country with over 500 stores.',
-    links: {
-      website: 'https://www.chadstone.com.au',
-    },
-    slug: 'chadstone',
-    title: 'Houghton Mifflin Harcourt',
-    cover: require('./chadstone.jpg'),
-    theme: {
-      background: '#a77e60',
+      background: '#00a5d1',
     },
   },
   {
