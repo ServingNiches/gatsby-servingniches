@@ -20,29 +20,43 @@ const About = ({ location }) => (
       <div className={styles.about}>
         <section className={styles.intro}>
           <h1>About</h1>
-          <p>Hi there. I’m a software developer based out of Boston, MA. I’ve had the pleasure to be in the industry for 4 years.</p>
-          <p>I first began my journey into code whilst studying Multimedia at <OutboundLink to="https://twitter.com/oliverbenns/status/345433447810101248">Nottingham Trent University</OutboundLink>. During my final year, I juggled assignments with part time work at <OutboundLink to="http://wearejh.com">JH</OutboundLink> where I maintained existing e-commerce websites by squashing bugs and adding new features. I gained a considerable amount of experience that I needed to step into the industry.</p>
+          <p>Hi there. I’m a software developer based out of Boston, MA. The work I do, these days, revolves mostly
+              around peta-byte scale distributed systems. Occasional freelancing and technical blogging have both
+              given me a good reason to try and keep up with the various spaces discussed here.
+          </p>
 
-          <p>Once obtaining my degree, I flew to Melbourne, Australia and worked with <OutboundLink to="http://inlight.com.au">Inlight</OutboundLink> for 3 years. I was responsible for the front end web development of various projects, such as web applications, mobile apps, static websites, online stores and blogs. With the variety of work and my attitude towards learning, I quickly grew from a graduate into a dependable, valuable front end developer that could work both solo and in teams.</p>
+          <p>My focus for the past 7 years has been on consulting and building software at brands like Directv, DSW,
+              T-Mobile, Houghton Mifflin Harcourt, Wellington Management, Thesys CAT (a subsidiary of Thesys Tech
+              formerly known as Tradeworx, Inc.) . Prior to that I used to do freelance web development and work at a
+              small business called Eagle Stationery Est. based out of the United Arab Emirates.
+          </p>
 
-          <p>I now work on a freelance basis working on both ideas of my own and others. If you have a project in mind, <Link to="/contact">get in touch</Link>.</p>
+          <p>Serving Niches focuses on Software Engineering, the more technical aspects of Online Marketing,
+              Niche Marketing, Analytics, Fintech, Blockchain and occasionally AI and its various subsets.
+          </p>
+
+          <p>If you have a project in mind, <Link to="/contact">get in touch</Link>.
+          </p>
         </section>
         <aside className={styles.skills}>
           <div>
             <h3>Skills</h3>
-            <h4>Presentation</h4>
-            <p>Bootstrap, Css, Html, Less, Postcss, Sass, Stylus</p>
-            <h4>Javascript</h4>
-            <p>Angular, Grunt, Gulp, jQuery, Pug, React, React Native, Redux, Webpack</p>
-            <h4>Server</h4>
-            <p>Express, Mongo, Node, SQL</p>
+            <h4>Programming Languages</h4>
+            <p>Java, Scala, Python, PHP, Ruby, HTML5, CSS3, Javascript, R, SQL, C++, Erlang, Elixir</p>
+            <h4>Frameworks/Libraries</h4>
+            <p>Spring, Ruby On Rails, Node.js, jQuery, Angular, React, Laravel, Flask, Sinatra, Django, Cement, NodeJS, MeteorJS, Phoenix, Apache Spark, Hadoop, Kafka, Elasticsearch, Kibana, Keras, Tensorflow</p>
+            <h4>Databases</h4>
+            <p>MySQL, SQLServer, SQlite3, MongoDB, S3, AWS DynamoDB, GAE datastores, PostgreSQL/PostGIS, Azure Blob, Hive, AWS Athena</p>
+            <h4>Web Analytics Tools</h4>
+            <p>Adobe (Omniture) SiteCatalyst, Discover 3, Google Analytics, Segment, Fiddler, Firebug, Charles, Wireshark, Piwik</p>
             <h4>Other</h4>
-            <p>C, CI, Git, Svn, Unity 3D</p>
+            <p>Ethereum ( Solidity, Embark, Truffle.js ), StatTools, @RISK, Unreal Engine 4</p>
           </div>
 
         </aside>
       </div>
 
+      {/*
       <section>
         <h2>What people say</h2>
         <div className={styles.referrals}>
@@ -71,6 +85,8 @@ const About = ({ location }) => (
           </div>
         </div>
       </section>
+        */}
+
     </Wrapper>
   </ContentPage>
 );

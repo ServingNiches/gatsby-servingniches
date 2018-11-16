@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Oliver Benns',
-    url: 'https://oliverbenns.com',
-    description: 'Oliver Benns is a freelance web developer working with individuals and agencies across the world.',
+    title: 'Anup Vasudevan',
+    url: 'https://servingniches.com',
+    description: 'Anup Vasudevan is a software developer who blogs about online marketing, blockchain, ',
   },
   plugins: [
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
-        trackingId: 'UA-42854706-1',
+        trackingId: 'UA-XXXXXXXX-X',
       },
     },
   ],
