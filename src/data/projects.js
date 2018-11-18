@@ -1,88 +1,77 @@
 const projects = [
   {
     className: 'click',
-    description: 'Australia\'s first mobile App that helps busy families quickly find and secure available childcare.',
+    description: 'Thesys CAT LLC is the Plan Processor for the Securities and Exchange Commission (SEC) Mandated Consolidated Audit Trail (CAT)',
     links: {
-      ios: 'https://itunes.apple.com/app/id1175973285',
-      android: 'https://play.google.com/store/apps/details?id=com.clickchildcareapp',
+      // ios: 'https://itunes.apple.com/app/id1175973285',
+      // android: 'https://play.google.com/store/apps/details?id=com.clickchildcareapp',
+      website: 'https://www.thesyscat.com/',
     },
-    slug: 'click-childcare',
+    slug: 'thesys-cat',
     title: 'Thesys CAT',
-    cover: require('./click.png'),
+    cover: require('./ThesysGroupInc_Logo.png'),
     theme: {
       background: '#000',
     },
   },
   {
     className: 'kindyNow',
-    description: 'Web app to allow childcare centre managers to monitor and control absences, bookings and capacities.',
+    description: 'One of the world\'s largest investment management firms handling over USD 1 Trillion in client assets.',
     links: {
       website: 'https://kindynow.com/admin',
     },
     slug: 'kindynow',
     title: 'Wellington Management',
-    cover: require('./kindynow.png'),
+    cover: require('./wellingtonmanagementLogo_280x140.gif'),
     theme: {
-      background: '#F7F7F7',
-      light: true,
+      background: '#1c355e',
+      // light: true,
     },
   },
   {
-    className: 'chadstone',
-    description: 'A rebuild of the existing website in line with the unveiling of the mall\'s new shopping, dining & entertainment precincts.',
+    className: 'click',
+    description: 'Houghton Mifflin Harcourt is a leading educational and trade publisher in the United States.',
     clientDescription: 'Chadstone Shopping Centre is a shopping centre located in the city of Melbourne, Australia. Since opening in 1960, it is now the biggest shopping centre in the country with over 500 stores.',
     links: {
-      website: 'https://www.chadstone.com.au',
+      website: 'https://www.hmhco.com/',
     },
     slug: 'chadstone',
     title: 'Houghton Mifflin Harcourt',
-    cover: require('./chadstone.jpg'),
+    cover: require('./hmhLogo.png'),
     theme: {
-      background: '#a77e60',
+      background: '#FDB813',
     },
   },
   {
-    className: 'lifeWithBird',
-    description: 'A minimal and clean e-commerce website built for the contemporary clothing brand based in Melbourne.',
+    className: 'kindyNow',
+    description: 'An American telecommunications company which offers wireless products and services.',
     clientDescription: 'Life with Bird was established in 2002 with a desire to create high quality, beautifully crafted contemporary clothing. The company continues to expand its global following.',
     links: {
       website: 'https://lifewithbird.com',
     },
     slug: 'life-with-bird',
     title: 'T-Mobile',
-    cover: require('./life-with-bird.jpg'),
+    cover: require('./tmobileLogo.png'),
     theme: {
-      background: '#f4f5fa',
-      light: true, // Invert text color.
+      background: '#E80070',
+      light: false, // Invert text color.
     },
   },
   {
     className: 'ahm',
-    description: 'A complete overhaul of the Australian health insurer\'s website to provide an enhanced user experience.',
+    description: 'An American footwear retailer of designer and name brand shoes and fashion accessories with over 500 stores in the United States and an e-commerce website.',
     clientDescription: 'Ahm (Australian Health Management) is a subsidiary of one of Australia’s largest health insurers. The company now handles health cover for over 370,000 people.',
     links: {
       website: 'https://ahm.com.au',
     },
     slug: 'ahm',
     title: 'DSW',
-    cover: require('./ahm.png'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#000',
     },
   },
-  {
-    className: 'mrRed',
-    description: 'An iOS game built using the Unity 3D game engine. A personal project to challenge and inspire oneself.',
-    links: {
-      ios: 'https://itunes.apple.com/app/id1165442603',
-    },
-    slug: 'mr-red',
-    title: 'Mr. Red',
-    cover: require('./mr-red.png'),
-    theme: {
-      background: '#5ab6ff',
-    },
-  },
+
 ];
 
 export default projects;

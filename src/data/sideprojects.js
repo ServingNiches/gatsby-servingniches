@@ -1,6 +1,6 @@
 const projects = [
   {
-    className: 'click',
+    className: 'kindyNow',
     description: 'Australia\'s first mobile App that helps busy families quickly find and secure available childcare.',
     links: {
       ios: 'https://itunes.apple.com/app/id1175973285',
@@ -14,7 +14,7 @@ const projects = [
     },
   },
   {
-    className: 'kindyNow',
+    className: 'click',
     description: 'Web app to allow childcare centre managers to monitor and control absences, bookings and capacities.',
     links: {
       website: 'https://kindynow.com/admin',
@@ -28,7 +28,7 @@ const projects = [
     },
   },
   {
-    className: 'chadstone',
+    className: 'lifeWithBird',
     description: 'A rebuild of the existing website in line with the unveiling of the mall\'s new shopping, dining & entertainment precincts.',
     clientDescription: 'Chadstone Shopping Centre is a shopping centre located in the city of Melbourne, Australia. Since opening in 1960, it is now the biggest shopping centre in the country with over 500 stores.',
     links: {
@@ -42,7 +42,7 @@ const projects = [
     },
   },
   {
-    className: 'lifeWithBird',
+    className: 'chadstone',
     description: 'A minimal and clean e-commerce website built for the contemporary clothing brand based in Melbourne.',
     clientDescription: 'Life with Bird was established in 2002 with a desire to create high quality, beautifully crafted contemporary clothing. The company continues to expand its global following.',
     links: {
@@ -57,7 +57,7 @@ const projects = [
     },
   },
   {
-    className: 'ahm',
+    className: 'mrRed',
     description: 'A complete overhaul of the Australian health insurer\'s website to provide an enhanced user experience.',
     clientDescription: 'Ahm (Australian Health Management) is a subsidiary of one of Australia’s largest health insurers. The company now handles health cover for over 370,000 people.',
     links: {
@@ -71,7 +71,7 @@ const projects = [
     },
   },
   {
-    className: 'mrRed',
+    className: 'ahm',
     description: 'An iOS game built using the Unity 3D game engine. A personal project to challenge and inspire oneself.',
     links: {
       ios: 'https://itunes.apple.com/app/id1165442603',
