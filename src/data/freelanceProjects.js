@@ -1,16 +1,17 @@
-const projects = [
+const freelanceprojects = [
   {
     className: 'kindyNow',
-    description: 'A small business based out of San Ramon, CA, USA that specializes in recruiting for Technology, Creative Services, Sourcing, Procurement and Finance',
+    description: 'A small business based out of San Ramon, CA, USA that specializes in recruiting for Technology, ' +
+        'Creative Services, Sourcing, Procurement and Finance',
     links: {
-      ios: 'https://itunes.apple.com/app/id1175973285',
-      android: 'https://play.google.com/store/apps/details?id=com.clickchildcareapp',
+      website: "http://www.acceloninc.com/",
     },
-    slug: 'click-childcare',
+    slug: 'acceloninc',
     title: 'Accelon Inc.',
-    cover: require('./click.png'),
+    cover: require('./accelonLogoStaffingSolutions.png'),
     theme: {
-      background: '#8D1D04',
+      background: 'white',
+      light: true,
     },
   },
   {
@@ -19,9 +20,9 @@ const projects = [
     links: {
       website: 'http://abudhabimuaythai.com/',
     },
-    slug: 'kindynow',
+    slug: 'admuaythai',
     title: 'Abu Dhabi Muay Thai And Capoeira Club',
-    cover: require('./kindynow.png'),
+    cover: require('./admuaythai.png'),
     theme: {
       background: '#DB3B08',
       light: false,
@@ -29,4 +30,4 @@ const projects = [
   },
 ];
 
-export default projects;
+export default freelanceprojects;

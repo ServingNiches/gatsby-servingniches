@@ -8,7 +8,7 @@ const projects = [
     },
     slug: 'click-childcare',
     title: 'Get Free Books',
-    cover: require('./click.png'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#00a5d1',
     },
@@ -21,7 +21,7 @@ const projects = [
     },
     slug: 'kindynow',
     title: 'Transcriber AI',
-    cover: require('./kindynow.png'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#F7F7F7',
       light: true,
@@ -36,7 +36,7 @@ const projects = [
     },
     slug: 'chadstone',
     title: 'Crypto Soccer',
-    cover: require('./chadstone.jpg'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#a77e60',
     },
@@ -50,7 +50,7 @@ const projects = [
     },
     slug: 'life-with-bird',
     title: 'P2P Marketplace',
-    cover: require('./life-with-bird.jpg'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#f4f5fa',
       light: true, // Invert text color.
@@ -65,7 +65,7 @@ const projects = [
     },
     slug: 'ahm',
     title: 'Generate An (Optimized) Affiliate Funnel',
-    cover: require('./ahm.png'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#000',
     },
@@ -78,7 +78,7 @@ const projects = [
     },
     slug: 'mr-red',
     title: 'Unnecessary Games',
-    cover: require('./mr-red.png'),
+    cover: require('./dswLogo.png'),
     theme: {
       background: '#5ab6ff',
     },

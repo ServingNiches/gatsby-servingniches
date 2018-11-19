@@ -2,22 +2,97 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f008052f-0223-477b-9fc4-7f552b5d1209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/data/ThesysGroupInc_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/dswLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/hmhLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/tmobileLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/wellingtonmanagementLogo_280x140.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/accelonLogoStaffingSolutions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/admuaythai.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/acceloninc/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/mobile-compare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/cw_train_2_iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/cw_train_iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/cw_web_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/hmhco_shop_web_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/hmhco_web_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/mathgo_iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/img/studypop_iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/hmh/styles.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/styles.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/project/panel/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/project/panel/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/project/intro/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/project/intro/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/ahm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/blogPosts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogPosts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/chadstone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/click.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/freelanceProjects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/freelanceProjects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/kindynow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/life-with-bird.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/mr-red.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/projects.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/sideprojects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/sideprojects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/img/booking.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/booking.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/img/centre-detail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/centre-detail.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/img/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/profile.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/img/register.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/register.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/work/click-childcare/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/extras.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/extras.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/manage.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/manage.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/mobile-compare.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/acceloninc/img/mobile-compare.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/mobile-form.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/mobile-form.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/mobile-product-listing.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/mobile-product-listing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/mobile-product.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/mobile-product.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/modal.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/modal.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/product.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/acceloninc/img/product.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/img/products.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/img/products.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/ahm/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/acceloninc/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/dining.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/mobile-about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/mobile-article.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/mobile-directions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/mobile-shopping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/mobile-store.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/store.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/img/whats-on.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/chadstone/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/hmh/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/attendees.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/attendees.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/centre-detail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/centre-detail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/centre-list.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/centre-list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/mobile-attendees.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/mobile-attendees.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/mobile-calendar.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/mobile-calendar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/mobile-centre-detail-rooms.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/mobile-centre-detail-rooms.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/mobile-centre-detail.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/mobile-centre-detail.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/mobile-centre-list.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/mobile-centre-list.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/img/stats.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/img/stats.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/kindynow/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/dsw/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/collection-listing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/collection-listing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/home.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/home.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/mobile-cart.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/mobile-cart.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/mobile-product-listing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/mobile-product-listing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/mobile-product.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/mobile-product.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/product-listing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/product-listing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/product.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/product.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/img/store-listing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/img/store-listing.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/life-with-bird/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/t-mobile/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/background.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/background.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/background-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/background-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/background-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/background-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/background-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/background-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/end-screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/end-screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/home.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/img/in-game.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/img/in-game.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/mr-red/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/admuaythai/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/booking.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/centre-detail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/img/register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/share.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,21 +118,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="23" />
-          <entry key="js" value="6" />
-          <entry key="json" value="1" />
-          <entry key="jsx" value="27" />
+          <entry key="css" value="30" />
+          <entry key="jpg" value="7" />
+          <entry key="js" value="8" />
+          <entry key="json" value="2" />
+          <entry key="jsx" value="43" />
           <entry key="md" value="1" />
-          <entry key="png" value="4" />
+          <entry key="png" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="23" />
-          <entry key="Image" value="4" />
-          <entry key="JSON" value="1" />
-          <entry key="JSX Harmony" value="27" />
-          <entry key="JavaScript" value="6" />
+          <entry key="CSS" value="30" />
+          <entry key="Image" value="27" />
+          <entry key="JSON" value="2" />
+          <entry key="JSX Harmony" value="43" />
+          <entry key="JavaScript" value="8" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -69,17 +145,17 @@
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="319" />
-          <entry key="js" value="1077" />
-          <entry key="jsx" value="6524" />
+          <entry key="css" value="400" />
+          <entry key="js" value="1298" />
+          <entry key="jsx" value="8155" />
           <entry key="md" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="319" />
-          <entry key="JSX Harmony" value="6523" />
-          <entry key="JavaScript" value="1077" />
+          <entry key="CSS" value="400" />
+          <entry key="JSX Harmony" value="8154" />
+          <entry key="JavaScript" value="1298" />
           <entry key="Markdown" value="146" />
           <entry key="RegExp" value="1" />
         </counts>
@@ -89,43 +165,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/work/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/project/panel/index.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="106" selection-start-line="16" selection-start-column="106" selection-end-line="16" selection-end-column="106" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data/projects.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+            <state relative-caret-position="375">
+              <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx">
+        <entry file="file://$PROJECT_DIR$/src/pages/blog/index.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -134,19 +186,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/data/freelanceProjects.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data/sideprojects.js">
+        <entry file="file://$PROJECT_DIR$/src/data/blogPosts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1093">
-              <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/work/dsw/index.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -158,6 +222,8 @@
       <find>Hello</find>
       <find>i like messages</find>
       <find>click-</find>
+      <find>favicon</find>
+      <find>click.png</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -189,15 +255,27 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/gatsby-config.js" />
         <option value="$PROJECT_DIR$/src/pages/about/index.jsx" />
-        <option value="$PROJECT_DIR$/src/data/blogPosts.js" />
-        <option value="$PROJECT_DIR$/src/pages/work/index.jsx" />
-        <option value="$PROJECT_DIR$/src/pages/blog/index.jsx" />
         <option value="$PROJECT_DIR$/src/pages/work/click-childcare/styles.module.css" />
-        <option value="$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx" />
         <option value="$PROJECT_DIR$/src/components/project/panel/index.jsx" />
-        <option value="$PROJECT_DIR$/src/data/sideprojects.js" />
+        <option value="$PROJECT_DIR$/src/pages/work/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/hmh/styles.module.css" />
+        <option value="$PROJECT_DIR$/src/components/project/intro/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/hmh/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css" />
+        <option value="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/styles.module.css" />
+        <option value="$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/wellingtonmgmt/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/t-mobile/index.jsx" />
         <option value="$PROJECT_DIR$/src/data/projects.js" />
+        <option value="$PROJECT_DIR$/src/pages/work/dsw/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/acceloninc/index.jsx" />
         <option value="$PROJECT_DIR$/src/data/freelanceProjects.js" />
+        <option value="$PROJECT_DIR$/src/pages/work/admuaythai/background.module.css" />
+        <option value="$PROJECT_DIR$/src/pages/work/admuaythai/index.jsx" />
+        <option value="$PROJECT_DIR$/src/pages/work/admuaythai/styles.module.css" />
+        <option value="$PROJECT_DIR$/src/data/sideprojects.js" />
+        <option value="$PROJECT_DIR$/src/data/blogPosts.js" />
+        <option value="$PROJECT_DIR$/src/pages/blog/index.jsx" />
       </list>
     </option>
   </component>
@@ -238,85 +316,6 @@
               <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="getresponseEmailSignup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="menu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="tagOneStyleAbout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="font" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-oliverbenns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-oliverbenns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="thesys-cat" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -339,10 +338,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/data" />
-      <recent name="$PROJECT_DIR$/src/components/footer" />
-      <recent name="$PROJECT_DIR$/src/components/getresponseEmailSignup" />
-      <recent name="$PROJECT_DIR$/src/components/tagOneStyleAbout" />
-      <recent name="$PROJECT_DIR$/src/pages/blog" />
+      <recent name="$PROJECT_DIR$/src/pages/work/acceloninc/img" />
+      <recent name="$PROJECT_DIR$/src/pages/work" />
+      <recent name="$PROJECT_DIR$/src/pages/work/hmh/img" />
+      <recent name="$PROJECT_DIR$/src/pages/work/hmh" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -372,16 +371,15 @@
       <workItem from="1540984445023" duration="9564000" />
       <workItem from="1325376771981" duration="12723000" />
       <workItem from="1542172186164" duration="1973000" />
-      <workItem from="1542290986157" duration="24402000" />
+      <workItem from="1542290986157" duration="49121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87664000" />
+    <option name="totallyTimeSpent" value="112383000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27184466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -434,124 +432,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/menu/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../gatsby-servingniches/src/pages/blog.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/html.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/fullscreen/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/document.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/fullscreen/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/typography.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/layouts/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/about/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/getresponseEmailSignup/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="27" column="75" selection-start-line="27" selection-start-column="75" selection-end-line="27" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/wrapper/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195">
-          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/variables.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tagOneStyleAbout/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/styles.module.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -638,27 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/blogPosts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/blog/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/img/profile.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/img/register.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/img/booking.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/img/centre-detail.png">
@@ -678,33 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/work/index.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/project/panel/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -715,24 +551,212 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/sideprojects.js">
+    <entry file="file://$PROJECT_DIR$/static/servingnichesLogo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon-32x32.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/share.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1093">
-          <caret line="73" column="19" selection-start-line="73" selection-start-column="19" selection-end-line="73" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data/projects.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/img/mathgo_iphone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/img/cw_web.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/img/home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/img/dining.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/index.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="61" column="19" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+        <state relative-caret-position="215">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/project/intro/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/hmh/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/img/booking.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/wellingtonmgmt/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/thesys-cat/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/wellingtonmgmt/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="68" column="14" selection-start-line="68" selection-start-column="14" selection-end-line="68" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/acceloninc/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/dsw/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/acceloninc/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/admuaythai/background.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/admuaythai/styles.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/admuaythai/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/data/freelanceProjects.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/dsw/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/work/t-mobile/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/projects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/sideprojects.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="12" lean-forward="true" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data/blogPosts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/blog/index.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>

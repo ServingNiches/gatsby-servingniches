@@ -14,13 +14,13 @@ const ProjectIntro = ({ media, project }) => (
       <h1>{project.title}</h1>
       <p>{project.clientDescription || project.description}</p>
       {project.links.website && <OutboundLink to={project.links.website}>View website</OutboundLink>}
-
+      &nbsp;&nbsp;&nbsp;
       {project.links.ios && (
         <OutboundLink to={project.links.ios} className={styles.download}>
           <img src={iosSrc} alt="Download on iOS App Store" />
         </OutboundLink>
       )}
-
+      &nbsp;&nbsp;&nbsp;
       {project.links.android && (
         <OutboundLink to={project.links.android} className={styles.download}>
           <img src={androidSrc} alt="Download on Google Play Store" />

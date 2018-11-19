@@ -10,3 +10,7 @@ a {
 a:hover {
   color: #359bed;
 }
+
+.responsibilities {
+    list-style: square;
+}

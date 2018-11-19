@@ -18,9 +18,9 @@ const projects = [
     className: 'kindyNow',
     description: 'One of the world\'s largest investment management firms handling over USD 1 Trillion in client assets.',
     links: {
-      website: 'https://kindynow.com/admin',
+      website: 'https://www.wellington.com/en/',
     },
-    slug: 'kindynow',
+    slug: 'wellingtonmgmt',
     title: 'Wellington Management',
     cover: require('./wellingtonmanagementLogo_280x140.gif'),
     theme: {
@@ -31,11 +31,14 @@ const projects = [
   {
     className: 'click',
     description: 'Houghton Mifflin Harcourt is a leading educational and trade publisher in the United States.',
-    clientDescription: 'Chadstone Shopping Centre is a shopping centre located in the city of Melbourne, Australia. Since opening in 1960, it is now the biggest shopping centre in the country with over 500 stores.',
+    clientDescription: 'Houghton Mifflin Harcourt is a leading educational and trade publisher in the United States.',
     links: {
+      // android: 'https://www.amazon.com/MeeGenius-Along-Library-Childrens-Books/dp/B00G9BMK7K/',
+      android: 'https://play.google.com/store/apps/developer?id=Houghton+Mifflin+Harcourt',
+      ios: 'https://itunes.apple.com/us/developer/houghton-mifflin-harcourt/id409368007',
       website: 'https://www.hmhco.com/',
     },
-    slug: 'chadstone',
+    slug: 'hmh',
     title: 'Houghton Mifflin Harcourt',
     cover: require('./hmhLogo.png'),
     theme: {
@@ -45,11 +48,11 @@ const projects = [
   {
     className: 'kindyNow',
     description: 'An American telecommunications company which offers wireless products and services.',
-    clientDescription: 'Life with Bird was established in 2002 with a desire to create high quality, beautifully crafted contemporary clothing. The company continues to expand its global following.',
+    clientDescription: 'An American telecommunications company which offers wireless products and services.',
     links: {
-      website: 'https://lifewithbird.com',
+      website: 'https://t-mobile.com',
     },
-    slug: 'life-with-bird',
+    slug: 't-mobile',
     title: 'T-Mobile',
     cover: require('./tmobileLogo.png'),
     theme: {
@@ -60,11 +63,11 @@ const projects = [
   {
     className: 'ahm',
     description: 'An American footwear retailer of designer and name brand shoes and fashion accessories with over 500 stores in the United States and an e-commerce website.',
-    clientDescription: 'Ahm (Australian Health Management) is a subsidiary of one of Australia’s largest health insurers. The company now handles health cover for over 370,000 people.',
+    clientDescription: 'An American footwear retailer of designer and name brand shoes and fashion accessories with over 500 stores in the United States and an e-commerce website.',
     links: {
-      website: 'https://ahm.com.au',
+      website: 'https://dsw.com',
     },
-    slug: 'ahm',
+    slug: 'dsw',
     title: 'DSW',
     cover: require('./dswLogo.png'),
     theme: {
