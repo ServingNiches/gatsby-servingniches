@@ -5,7 +5,7 @@ import 'react-github-button/assets/style.css';
 import Hamburger from '../hamburger';
 import Menu from '../menu';
 import Wrapper from '../wrapper';
-import ServingNichesLogo from '../../../static/servingnichesLogo.png';
+import ServingNichesLogo from '../../../static/servingnichesLogo_big.png';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import styles from './styles.module.css';
