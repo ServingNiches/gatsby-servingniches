@@ -9,4 +9,4 @@
 - Static build: `npm run build`.
 
 ### Resources
-- Heavily borrowed and redesigned using: https://github.com/oliverbenns/oliverbenns.com
+- Heavily borrowed from and re-designed using: https://github.com/oliverbenns/oliverbenns.com
