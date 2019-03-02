@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f008052f-0223-477b-9fc4-7f552b5d1209" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/typography.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-list/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-list/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-list/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-list/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-post-big/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-post-big/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-post-big/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-post-big/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-post-small/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-post-small/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/blog-post-small/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/blog-post-small/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/content-page/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/content-page/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/styles.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/2018-02-08___full-capability-blog-post-test/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/2018-02-08___full-capability-blog-post-test/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/2018-02-09___full-capability-blog-post-test/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/2018-02-09___full-capability-blog-post-test/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/blogPosts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/blogPosts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/about/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/blog/styles.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/blog/styles.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/templates/blog-post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/blog-post.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -84,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/content/posts/2018-02-20___full-capability-blog-post-test/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -92,6 +70,15 @@
                 <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -362,18 +349,18 @@
       <workItem from="1542172186164" duration="1973000" />
       <workItem from="1542290986157" duration="49121000" />
       <workItem from="1549614202792" duration="63568000" />
-      <workItem from="1551185028351" duration="22131000" />
+      <workItem from="1551185028351" duration="22220000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="198082000" />
+    <option name="totallyTimeSpent" value="198171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.27164418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27164418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -822,13 +809,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/content/posts/2018-02-20___full-capability-blog-post-test/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -836,6 +816,13 @@
             <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
