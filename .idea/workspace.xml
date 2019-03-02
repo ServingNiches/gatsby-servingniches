@@ -79,13 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="488">
-              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
-=======
             <state relative-caret-position="533">
               <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
->>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
             </state>
           </provider>
         </entry>
@@ -357,7 +352,11 @@
       <workItem from="1542290986157" duration="49121000" />
       <workItem from="1549614202792" duration="63568000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1551185028351" duration="22878000" />
+=======
+      <workItem from="1551185028351" duration="22596000" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
 =======
       <workItem from="1551185028351" duration="22596000" />
 >>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
@@ -366,7 +365,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="198829000" />
+=======
+    <option name="totallyTimeSpent" value="198547000" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
 =======
     <option name="totallyTimeSpent" value="198547000" />
 >>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
@@ -837,8 +840,13 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="488">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+=======
+        <state relative-caret-position="533">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
 =======
         <state relative-caret-position="533">
           <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
