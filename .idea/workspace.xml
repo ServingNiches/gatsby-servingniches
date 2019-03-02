@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/2018-02-08___full-capability-blog-post-test/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/2018-02-08___full-capability-blog-post-test/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/content/posts/2018-02-09___full-capability-blog-post-test/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/content/posts/2018-02-09___full-capability-blog-post-test/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,8 +79,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="488">
               <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+=======
+            <state relative-caret-position="533">
+              <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
             </state>
           </provider>
         </entry>
@@ -350,12 +356,20 @@
       <workItem from="1542172186164" duration="1973000" />
       <workItem from="1542290986157" duration="49121000" />
       <workItem from="1549614202792" duration="63568000" />
+<<<<<<< HEAD
       <workItem from="1551185028351" duration="22878000" />
+=======
+      <workItem from="1551185028351" duration="22596000" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="198829000" />
+=======
+    <option name="totallyTimeSpent" value="198547000" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -822,8 +836,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="488">
           <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+=======
+        <state relative-caret-position="533">
+          <caret line="54" column="3" selection-start-line="54" selection-start-column="3" selection-end-line="54" selection-end-column="3" />
+>>>>>>> 7cfd4e2104f732e975360ffd6d3f08753847b0d5
         </state>
       </provider>
     </entry>
