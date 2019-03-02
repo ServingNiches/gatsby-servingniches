@@ -1,5 +1,6 @@
 import React from 'react';
-import Link from 'gatsby-link';
+// import Link from 'gatsby-link';
+import { Link } from 'gatsby';
 
 import ContentPage from '../../components/content-page';
 import Meta from '../../components/meta';

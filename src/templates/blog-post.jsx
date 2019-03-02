@@ -1,20 +1,24 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import Layout from '../layouts/index';
+import Layout from '../components/layouts';
 import Wrapper from '../components/wrapper';
-import Fullscreen from '../components/fullscreen';
+
 
 export default ({ data }) => {
   const post = data.markdownRemark;
   return (
     <Layout>
-        <Wrapper>
-          <div>
-            <h1>{post.frontmatter.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: post.html }} />
-          </div>
-        </Wrapper>
+      <Wrapper>
+        <div>
+          <h1>{post.frontmatter.title}</h1>
+          <br />
+          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+        </div>
+
+        <br />
+        <br />
+      </Wrapper>
     </Layout>
   );
 };

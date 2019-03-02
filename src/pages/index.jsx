@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
+//import { Link } from 'gatsby';
 
 import Fullscreen from '../components/fullscreen';
 import Meta from '../components/meta';
