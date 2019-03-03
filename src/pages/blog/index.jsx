@@ -121,11 +121,6 @@ export const query = graphql`
         frontmatter {
           title
           subTitle
-          cover {
-            id,
-            publicURL,
-            name
-          }
           categories
           date
         },
