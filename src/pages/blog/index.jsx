@@ -73,6 +73,40 @@ class Blog extends Component {
 
 export default Blog;
 
+// export const query = graphql`
+//   query {
+//   allMarkdownRemark (
+//   sort: { fields: [frontmatter___date], order: DESC })
+//   {
+//     edges {
+//       node {
+//         id,
+//         fields {
+//           slug
+//         },
+//         frontmatter {
+//           title
+//           subTitle
+//           cover {
+//             id,
+//             publicURL,
+//             name
+//           },
+//           categories,
+//           date
+//         },
+//         excerpt
+//         headings {
+//           value
+//           depth
+//         }
+//         rawMarkdownBody,
+//         fileAbsolutePath,
+//       }
+//     }
+//   }
+// }`;
+
 export const query = graphql`
   query {
   allMarkdownRemark (
@@ -91,8 +125,8 @@ export const query = graphql`
             id,
             publicURL,
             name
-          },
-          categories,
+          }
+          categories
           date
         },
         excerpt
