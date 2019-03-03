@@ -73,45 +73,10 @@ class Blog extends Component {
 
 export default Blog;
 
-// export const query = graphql`
-//   query {
-//   allMarkdownRemark (
-//   sort: { fields: [frontmatter___date], order: DESC })
-//   {
-//     edges {
-//       node {
-//         id,
-//         fields {
-//           slug
-//         },
-//         frontmatter {
-//           title
-//           subTitle
-//           cover {
-//             id,
-//             publicURL,
-//             name
-//           },
-//           categories,
-//           date
-//         },
-//         excerpt
-//         headings {
-//           value
-//           depth
-//         }
-//         rawMarkdownBody,
-//         fileAbsolutePath,
-//       }
-//     }
-//   }
-// }`;
-
-// Temp fix for failing netlify build since no blog posts are initially uploaded
 export const query = graphql`
   query {
   allMarkdownRemark (
-  sort: { fields: [frontmatter___date], order: DESC }) 
+  sort: { fields: [frontmatter___date], order: DESC })
   {
     edges {
       node {
@@ -122,7 +87,11 @@ export const query = graphql`
         frontmatter {
           title
           subTitle
-          cover
+          cover {
+            id,
+            publicURL,
+            name
+          },
           categories,
           date
         },
