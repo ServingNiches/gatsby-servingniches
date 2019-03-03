@@ -9,5 +9,3 @@ date: 2018-02-08
 This is a test post posted merely as a check. 
 
 ![abudhabimuaythai.com](./admuaythai.png)
-
-
