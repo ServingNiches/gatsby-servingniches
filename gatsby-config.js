@@ -28,9 +28,13 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          'gatsby-plugin-sharp',
           {
             resolve: 'gatsby-remark-copy-images',
+          },
+          {
+            resolve: 'gatsby-remark-images',
+          },
+          {
             resolve: 'gatsby-remark-prettier',
             options: {
               // Look for local .prettierrc file.
@@ -81,7 +85,7 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-remark-images',
+      resolve: 'gatsby-plugin-sharp',
     },
   ],
 };

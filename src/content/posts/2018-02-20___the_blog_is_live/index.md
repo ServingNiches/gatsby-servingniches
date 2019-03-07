@@ -6,7 +6,7 @@ cover: ./13020875105_33d0df0eaa_b.jpg
 date: 2018-02-20
 ---
 
-![https://www.flickr.com/photos/tjlto/13020875105/in/photolist-kQBowD-Ef48hQ-UMSnzN-otE5Ge-2a3b2qD-HKXt4n-fMZJNB-265U2h1-bD7b3U-24Ze34q-rkFd9Z-nZbXfw-hmdCZJ-T4hoV7-8XyNvA-dtyrNK-oWZMW9-RTxsPw-23Zhty4-Qxj9so-NzGAB7-T8wf9T-26FiJNo-2bofDmd-oeTGeX-d9gXzu-3fGvrF-T6F16N-TjTNqo-dNGpfG-JYE82M-Teypz7-8dk9Kq-a42g3t-2ao6daP-8eUcwE-Tp71UT-pkZgGW-29dyKRJ-Texbq7-YV4Urx-21f3rTH-S3ZSFw-dKFYFx-ULNrWF-TdzuNw-2cV4bxb-T1Gos9-bAJh6V-WRcf5j](13020875105_33d0df0eaa_b.jpg)
+![cover-image](./13020875105_33d0df0eaa_b.jpg)
 
 
 Welcome to the Serving Niches Blog. After a few weeks of tinkering and 
