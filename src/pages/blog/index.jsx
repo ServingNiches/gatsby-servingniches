@@ -95,11 +95,7 @@ export const query = graphql`
           categories,
           date
         },
-        excerpt
-        headings {
-          value
-          depth
-        }
+        excerpt,
         rawMarkdownBody,
         fileAbsolutePath,
       }
