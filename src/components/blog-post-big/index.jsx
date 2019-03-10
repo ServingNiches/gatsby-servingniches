@@ -15,7 +15,7 @@ class BlogPostBig extends Component {
                   src={this.props.post.frontmatter.cover.publicURL}
                   alt=""
                   width="600"
-                  height="200"
+                  height="230"
                 />
                 <div className="mb-15">
                   {this.props.post
