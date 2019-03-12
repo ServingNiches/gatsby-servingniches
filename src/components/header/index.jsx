@@ -34,17 +34,17 @@ export default class Header extends Component {
     document.body.appendChild(segmentScript);
 
     // Google Adsense
-    const googleAdsenseScript = document.createElement('script');
-    googleAdsenseScript.async = true;
-    googleAdsenseScript.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+    //const googleAdsenseScript = document.createElement('script');
+    //googleAdsenseScript.async = true;
+    //googleAdsenseScript.src = '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
 
-    const googleAdsenseScript2 = document.createElement('script');
-    googleAdsenseScript2.innerText = `(adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-8143488620080967",
-        enable_page_level_ads: true
-      });`;
-    document.body.appendChild(googleAdsenseScript);
-    document.body.appendChild(googleAdsenseScript2);
+    //const googleAdsenseScript2 = document.createElement('script');
+    //googleAdsenseScript2.innerText = `(adsbygoogle = window.adsbygoogle || []).push({
+    //    google_ad_client: "ca-pub-8143488620080967",
+    //    enable_page_level_ads: true
+    //  });`;
+    //document.body.appendChild(googleAdsenseScript);
+    //document.body.appendChild(googleAdsenseScript2);
 
     // const jqueryScript = document.createElement('script');
     // jqueryScript.src = 'https://code.jquery.com/jquery-3.3.1.slim.min.js';

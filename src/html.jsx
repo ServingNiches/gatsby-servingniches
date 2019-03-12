@@ -48,6 +48,17 @@ const Html = ({ body, headComponents, postBodyComponents }) => {
 
         {/* Styles */}
         {styles && <style id="gatsby-inlined-css" dangerouslySetInnerHTML={{ __html: styles }} />}
+
+        {/* Google Adsense */}
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script>
+          {
+          `(adsbygoogle = window.adsbygoogle || []).push({ 
+            google_ad_client: "ca-pub-8143488620080967", 
+              enable_page_level_ads: true });
+          `}
+        </script>
+
       </head>
       <body>
         <div id="___gatsby" dangerouslySetInnerHTML={{ __html: body }} />
