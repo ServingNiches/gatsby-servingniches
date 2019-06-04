@@ -58,7 +58,7 @@ executable. It should be the same folder where you'd look for activate.
 
 2). **Parameters**: Should be the command and options you're looking to debug or run. 
 
-So if is what you'd type at the command line is ...
+So if what you'd type at the command line is ...
 ``` 
 serpent play AngryVideoGameNerd SerpentAngryVideoGameNerdGameAgent 
 ``` 
