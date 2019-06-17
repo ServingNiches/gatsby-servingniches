@@ -13,7 +13,7 @@ const ContactNetlifyForm = ({ title }) => (
       <br />
     </p>
 
-    <form name="serving-niches-form" method="POST" data-netlify-recaptcha="true" data-netlify="true" className={styles['contact-form']}>
+    <form name="serving-niches-form" method="POST" netlify-honeypot="bot-field" data-netlify="true" className={styles['contact-form']}>
       <p>
         <label>Email:</label>
         <input className="form-control" type="text" name="name" />
@@ -22,7 +22,7 @@ const ContactNetlifyForm = ({ title }) => (
         <label>Message:</label>
         <textarea className="form-control textarea" name="message" />
       </p>
-      <div data-netlify-recaptcha="true" />
+      {/*<div data-netlify-recaptcha="true" />*/}
       <button className="square-button form-control" type="submit">Send</button>
     </form>
 
