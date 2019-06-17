@@ -113,3 +113,7 @@
 .contact-form button {
     width: 400px;
 }
+
+.contact-form p.hidden {
+    display: none;
+}
