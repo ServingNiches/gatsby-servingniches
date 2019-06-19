@@ -13,7 +13,7 @@ const ContactNetlifyForm = ({ title }) => (
       <br />
     </p>
 
-    <form name="serving-niches-form" method="POST" netlify-honeypot="bot-field" data-netlify="true" className="contact-form">
+    <form name="serving-niches-form" method="POST" netlify-honeypot="bot-field" data-netlify="true" netlify="true" className="contact-form">
       <p className="hidden" style={{ display: 'None' }}>
         <label>
 Don’t fill this out if you're human:
