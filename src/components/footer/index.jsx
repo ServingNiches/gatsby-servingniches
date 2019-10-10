@@ -52,6 +52,9 @@ export default class Footer extends Component {
                         <p className="mb-5">
                           <Link to="/contact">Contact</Link>
                         </p>
+                        <p className="mb-5">
+                          <OutboundLink to="https://teespring.com/stores/serving-niches-store">Shop</OutboundLink>
+                        </p>
                       </div>
                       <div className="col-6 col-sm-3 mb-40 mb-sm-0" />
                       <div className="col-6 col-sm-3">
