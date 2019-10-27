@@ -13,4 +13,4 @@
 - Heavily borrowed from and re-designed using: https://github.com/oliverbenns/oliverbenns.com
 
 ### Donate
-<a href="https://www.buymeacoffee.com/lhik1Dd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/lhik1Dd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" height="43"></a>
