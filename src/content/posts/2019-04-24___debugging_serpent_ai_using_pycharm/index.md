@@ -6,6 +6,7 @@ cover: PyCharmSerpentAIScreenshot.png
 date: 2019-04-24
 ---
 
+> **UPDATE - 10th July, 2020:** [SerpentAI](https://github.com/SerpentAI/SerpentAI) has come back to life. So this article is still relevant. If you're looking for a framework to support your RL agents in, I suggest taking a look at [SerpentAI](https://github.com/SerpentAI/SerpentAI) .
 
 [SerpentAI](https://github.com/SerpentAI/SerpentAI) at this point has reached **EOL (End of life)** and is no longer being supported. So this article is a bit late. 
 Thought I'd put it out anyway because of the effort spent on debugging the game agent and getting the framework to work. The framework installs and works relatively flawlessly 
