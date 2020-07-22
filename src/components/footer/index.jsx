@@ -67,7 +67,7 @@ export default class Footer extends Component {
                         <h5 className="mb-20">Follow Me</h5>
                         <br />
                         <nav>
-                          <OutboundLink to="https://github.com/ServingNiches/">
+                          <OutboundLink to="https://github.com/rtre84/">
                             <Icon name="github" />
                           </OutboundLink>
                             &nbsp;&nbsp;&nbsp;
