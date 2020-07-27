@@ -8,8 +8,6 @@ import OutboundLink from '../../../components/outbound-link';
 import Wrapper from '../../../components/wrapper';
 import { ProjectDescription, ProjectIntro, ProjectPage } from '../../../components/project';
 
-import styles from './styles.module.css';
-
 
 const images = {
   desktop: [
@@ -46,7 +44,7 @@ const TMobile = ({ location }) => {
         <h3>Project</h3>
         <p>The work involved building a Python based GIS pipeline to process vendor files and visualize results using Mapbox.</p>
 
-        <ul className={styles.responsibilities}>
+        <ul>
           <li>Developed highly performant ETL application to generate consumable vector based, highly detailed mbtiles.</li>
           <li>Build integration to Apache Spark based pipeline using Pyspark/ Scala api.</li>
           <li>Help architect and build out performant data pipeline from Postgres/PostGIS server to GeoJSON using GDAL and OGR libraries.</li>
