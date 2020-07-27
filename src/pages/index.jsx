@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-//import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 
 import Fullscreen from '../components/fullscreen';
 import Meta from '../components/meta';
@@ -23,7 +23,10 @@ const Index = ({ location }) => (
           Welcome to Serving Niches.
             <br />
             <br />
-          Check out the <Link className={styles.link} to="/blog">blog</Link>.
+          Check out the
+            {' '}
+            <Link className={styles.link} to="/blog">blog</Link>
+.
           </h1>
         </Wrapper>
       </Fullscreen>

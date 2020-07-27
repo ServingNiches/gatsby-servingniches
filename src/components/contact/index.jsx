@@ -9,7 +9,8 @@ const Contact = ({ title }) => (
   <div className={styles.contact}>
     <h1>{title || 'Messages make the world go round.'}</h1>
     <p className={styles.email}>
-      Say hello and send an email:<br />
+      Say hello and send an email:
+      <br />
       <a href="mailto:info@servingniches.com?subject=Hello%20Anup!" className={styles.link}>info@servingniches.com</a>
     </p>
     <div className={styles.lineBreak} />

@@ -83,9 +83,10 @@ export default class Footer extends Component {
                       </div>
                     </div>
                   </div>
-                  <div className="row justify-content-between align-items-center text-center text-sm-left p-40" >
+                  <div className="row justify-content-between align-items-center text-center text-sm-left p-40">
                     <div id="copyright" className={styles.footerCopyrightCenter}>
-                      <p>&copy; 2008 &mdash; Current Year ;) &mdash; Serving Niches &mdash; All rights reserved
+                      <p>
+&copy; 2008 &mdash; Current Year ;) &mdash; Serving Niches &mdash; All rights reserved
                       </p>
                     </div>
                   </div>
@@ -93,6 +94,7 @@ export default class Footer extends Component {
               </section>
             </Wrapper>
           </Fullscreen>
-        </div>);
+        </div>
+      );
     }
 }

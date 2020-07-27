@@ -10,7 +10,7 @@ let styles;
 
 if (isProduction) {
   try {
-    styles = require(`!raw-loader!../public/styles.css`);
+    styles = require('!raw-loader!../public/styles.css');
   } catch (e) {
     console.error(e);
   }
@@ -50,7 +50,7 @@ const Html = ({ body, headComponents, postBodyComponents }) => {
         {styles && <style id="gatsby-inlined-css" dangerouslySetInnerHTML={{ __html: styles }} />}
 
         {/* Google Adsense */}
-        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" />
 
       </head>
       <body>

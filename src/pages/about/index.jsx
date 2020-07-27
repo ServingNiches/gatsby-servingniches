@@ -21,22 +21,28 @@ const About = ({ location }) => (
       <div className={styles.about}>
         <section className={styles.intro}>
           <h1>About</h1>
-          <p>Hi there. I’m a software developer based out of Boston, MA. The work I do, these days, revolves mostly
+          <p>
+Hi there. I’m a software developer based out of Boston, MA. The work I do, these days, revolves mostly
               around peta-byte scale distributed systems. Occasional freelancing and technical blogging have both
               given me a good reason to try and keep up with the various spaces discussed here.
           </p>
 
-          <p>My focus for the past 7 years has been on consulting and building software at brands like Directv, DSW,
+          <p>
+My focus for the past 7 years has been on consulting and building software at brands like Directv, DSW,
               T-Mobile, Houghton Mifflin Harcourt, Wellington Management, Thesys CAT (a subsidiary of Thesys Tech
               formerly known as Tradeworx, Inc.) . Prior to that I used to do freelance web development and work at a
               small business called Eagle Stationery Est. based out of the United Arab Emirates.
           </p>
 
-          <p>Serving Niches focuses on Software Engineering, the more technical aspects of Online Marketing,
+          <p>
+Serving Niches focuses on Software Engineering, the more technical aspects of Online Marketing,
               Niche Marketing, Analytics, Fintech, Blockchain and occasionally AI and its various subsets.
           </p>
 
-          <p>If you have a project in mind, <Link to="/contact">get in touch</Link>.
+          <p>
+If you have a project in mind,
+            <Link to="/contact">get in touch</Link>
+.
           </p>
         </section>
         <aside className={styles.skills}>

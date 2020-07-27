@@ -49,7 +49,8 @@ const KindyNow = ({ location }) => {
       <Wrapper>
 
         <h3>Project</h3>
-        <p>Responsible for building out an internal Zeppelin based application powered by AWS EMR batch
+        <p>
+Responsible for building out an internal Zeppelin based application powered by AWS EMR batch
             processing pipelines. The application measured portfolio managers and analysts contribution to alpha within
             the firm for any given time window.
         </p>

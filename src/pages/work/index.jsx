@@ -18,7 +18,7 @@ const Work = ({ location }) => (
 
     {freelanceProjects.map(project => <ProjectPanel project={project} key={project.slug} />)}
 
-    {/*{sideProjects.map(project => <ProjectPanel project={project} key={project.slug} />)}*/}
+    {/* {sideProjects.map(project => <ProjectPanel project={project} key={project.slug} />)} */}
 
     <div className={styles.contact}>
       <Wrapper>

@@ -25,7 +25,8 @@ const tagOneStyleAbout = ({ location }) => (
                     its various subsets.
                 </h4>
                 <br />
-                <div className="b-500">Having had to implement these in the past - I keep finding myself
+                <div className="b-500">
+Having had to implement these in the past - I keep finding myself
                     wishing they were more accessible. My hope is that this site and producing content
                     will help document these topics
                     a bit better. No technology has survived by being inaccessible after all.
