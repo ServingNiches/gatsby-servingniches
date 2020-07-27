@@ -39,16 +39,20 @@ const TMobile = ({ location }) => {
   return (
     <ProjectPage project={project} location={location}>
       <ProjectIntro project={project} media={image} />
-      {/*<ProjectDescription media={iphone}>*/}
       <Wrapper>
-        <h3>Details Coming Soon</h3>
+        <h3>Project</h3>
+        <p>The work involved building a Python based GIS pipeline to process vendor files and visualize results using Mapbox.</p>
+
+        <ul className={styles.responsibilities}>
+          <li>Developed highly performant ETL application to generate consumable vector based, highly detailed mbtiles.</li>
+          <li>Build integration to Apache Spark based pipeline using Pyspark/ Scala api.</li>
+          <li>Help architect and build out performant data pipeline from Postgres/PostGIS server to GeoJSON using GDAL and OGR libraries.</li>
+          <li>Build out MVC application using Django and bootstrap to manage vendors and process large KML and Shape files.</li>
+          <li>Code using RabbitMQ (Erlang), Celery and Redis for distributing tasks and parallel processing.</li>
+          <li>Build out an intermediate mbtiles rendering interface for admin to check generated vendor files and tiles.</li>
+          <li>Implement PostGIS workflow to help make sensor geospatial data consumable.</li>
+        </ul>
       </Wrapper>
-      {/*</ProjectDescription>*/}
-      {/*<Wrapper>*/}
-        {/*<Macbook>*/}
-          {/*<Carousel images={images.desktop} />*/}
-        {/*</Macbook>*/}
-      {/*</Wrapper>*/}
     </ProjectPage>
   );
 };
