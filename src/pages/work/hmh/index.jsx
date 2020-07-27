@@ -45,7 +45,8 @@ const Chadstone = ({ location }) => {
       />
       <ProjectDescription media={iphone}>
         <h3>Project</h3>
-        <p>The project involved implementing analytics in various web, hybrid, mobile
+        <p>
+The project involved implementing analytics in various web, hybrid, mobile
             and unity engine powered apps. In addition there was a need to help migrate/deprecate legacy apps,
             re-design and architect existing applications to better use modern technologies better.
         </p>

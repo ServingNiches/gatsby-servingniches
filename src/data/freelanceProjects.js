@@ -1,10 +1,10 @@
 const freelanceprojects = [
   {
     className: 'kindyNow',
-    description: 'A small business based out of San Ramon, CA, USA that specializes in recruiting for Technology, ' +
-        'Creative Services, Sourcing, Procurement and Finance',
+    description: 'A small business based out of San Ramon, CA, USA that specializes in recruiting for Technology, '
+        + 'Creative Services, Sourcing, Procurement and Finance',
     links: {
-      website: "http://www.acceloninc.com/",
+      website: 'http://www.acceloninc.com/',
     },
     slug: 'acceloninc',
     title: 'Accelon Inc.',

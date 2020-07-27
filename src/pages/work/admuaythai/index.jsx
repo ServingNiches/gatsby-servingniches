@@ -32,7 +32,7 @@ const MrRed = ({ location }) => {
   );
 
   return (
-    <ProjectPage project={project} location={location} >
+    <ProjectPage project={project} location={location}>
       <div>
         <ProjectIntro project={project} media={image} />
         <Wrapper>
