@@ -8,6 +8,9 @@ import OutboundLink from '../../../components/outbound-link';
 import Wrapper from '../../../components/wrapper';
 import { ProjectDescription, ProjectIntro, ProjectPage } from '../../../components/project';
 
+import styles from './styles.module.css';
+
+
 const images = {
   desktop: [
     { src: require('./img/collection-listing.jpg'), description: 'Life with Bird collection listing' },
