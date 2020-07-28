@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './styles.module.css';
-import Fullscreen from '../../components/fullscreen';
 
 export default () => (
   <div className={styles.thanks}>

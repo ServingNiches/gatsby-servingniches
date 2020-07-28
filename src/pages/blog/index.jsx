@@ -1,13 +1,8 @@
 import React, { Component } from 'react';
 import { graphql } from 'gatsby';
 
-import { Link } from 'gatsby';
 import Meta from '../../components/meta';
-import Contact from '../../components/contact';
-import { ProjectPanel } from '../../components/project';
 import Wrapper from '../../components/wrapper';
-
-import blogPermanentContent from '../../data/blogPosts';
 
 import styles from './styles.module.css';
 import Fullscreen from '../../components/fullscreen';
@@ -16,28 +11,12 @@ import BlogList from '../../components/blog-list';
 
 class Blog extends Component {
   componentDidMount() {
-    // console.log(this.props);
   }
 
   render() {
     return (
       <div>
         <Meta title="Blog" description="Web applications, static websites and mobile apps built built by or collaboratively with Anup Vasudevan." location={this.props.location} />
-
-        {/* <Wrapper className={styles.affiliate}> */}
-        {/* <a href="https://www.paperspace.com/&R=I8UGDM"> */}
-        {/* <img */}
-        {/* src="https://www.paperspace.com/images/pSmallLogo.png" */}
-        {/* alt="Paperspace Logo" */}
-        {/* width={100} */}
-        {/* height={100} */}
-        {/* className="float-left" */}
-        {/* /> */}
-        {/* <h3> */}
-        {/* Build next-generation applications and cloud ML/AI pipelines using Paperspace. */}
-        {/* </h3> */}
-        {/* </a> */}
-        {/* </Wrapper> */}
 
         <BlogList posts={this.props.data} />
 
