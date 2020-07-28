@@ -1,7 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import { graphql, Link } from 'gatsby';
 
-import styles from './styles.module.css';
 import BlogPostSmall from '../blog-post-small';
 import BlogPostBig from '../blog-post-big';
 

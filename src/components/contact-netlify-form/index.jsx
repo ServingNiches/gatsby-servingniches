@@ -1,5 +1,5 @@
 import React from 'react';
-import { navigateTo } from "gatsby-link";
+import { navigateTo } from 'gatsby-link';
 
 import Icon from '../icon';
 import OutboundLink from '../outbound-link';

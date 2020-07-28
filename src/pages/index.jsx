@@ -1,6 +1,6 @@
 import React from 'react';
 import Link from 'gatsby-link';
-//import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 
 import Fullscreen from '../components/fullscreen';
 import Meta from '../components/meta';
@@ -17,13 +17,16 @@ const Index = ({ location }) => (
       <Fullscreen className={styles.intro} firstItem>
         <Wrapper>
           <h1>
-          Hi there. I’m Anup Vasudevan.
+            Hi there. I’m Anup Vasudevan.
             <br />
             <br />
-          Welcome to Serving Niches.
+            Welcome to Serving Niches.
             <br />
             <br />
-          Check out the <Link className={styles.link} to="/blog">blog</Link>.
+            Check out the
+            {' '}
+            <Link className={styles.link} to="/blog">blog</Link>
+            .
           </h1>
         </Wrapper>
       </Fullscreen>

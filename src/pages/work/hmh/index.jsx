@@ -4,7 +4,6 @@ import projects from '../../../data/projects.js';
 import Carousel from '../../../components/carousel';
 import Iphone from '../../../components/iphone';
 import Macbook from '../../../components/macbook';
-import OutboundLink from '../../../components/outbound-link';
 import Wrapper from '../../../components/wrapper';
 import { ProjectDescription, ProjectIntro, ProjectPage } from '../../../components/project';
 
@@ -45,9 +44,10 @@ const Chadstone = ({ location }) => {
       />
       <ProjectDescription media={iphone}>
         <h3>Project</h3>
-        <p>The project involved implementing analytics in various web, hybrid, mobile
-            and unity engine powered apps. In addition there was a need to help migrate/deprecate legacy apps,
-            re-design and architect existing applications to better use modern technologies better.
+        <p>
+          The project involved implementing analytics in various web, hybrid, mobile
+          and unity engine powered apps. In addition there was a need to help migrate/deprecate legacy apps,
+          re-design and architect existing applications to better use modern technologies better.
         </p>
 
         <h3>Role</h3>
