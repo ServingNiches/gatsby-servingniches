@@ -4,7 +4,6 @@ import projects from '../../../data/projects.js';
 import Carousel from '../../../components/carousel';
 import Iphone from '../../../components/iphone';
 import Macbook from '../../../components/macbook';
-import OutboundLink from '../../../components/outbound-link';
 import Wrapper from '../../../components/wrapper';
 import { ProjectDescription, ProjectIntro, ProjectPage } from '../../../components/project';
 

@@ -1,13 +1,9 @@
 import React from 'react';
 import projects from '../../../data/projects';
 
-import Carousel from '../../../components/carousel';
-import Iphone from '../../../components/iphone';
-import OutboundLink from '../../../components/outbound-link';
-import { ProjectDescription, ProjectIntro, ProjectPage } from '../../../components/project';
+import { ProjectIntro, ProjectPage } from '../../../components/project';
 
 import styles from './styles.module.css';
-import Macbook from '../../../components/macbook';
 import Wrapper from '../../../components/wrapper';
 
 
@@ -20,18 +16,10 @@ const Click = ({ location }) => {
     </div>
   );
 
-  // const iphone = (
-  //   <Iphone>
-  //     <Carousel images={images} />
-  //   </Iphone>
-  // );
-
   return (
     <ProjectPage project={project} location={location}>
       <ProjectIntro project={project} media={image} />
-      {/* <ProjectDescription media={iphone}> */}
       <Wrapper>
-        {/* <ProjectDescription> */}
         <h3>Project</h3>
         <p>
 Helped build out one of the largest financial projects ever undertaken in the United States
@@ -64,7 +52,6 @@ Write scalable performant code in an approved compiled language to handle 10 to 
           </li>
           <li>Write code capable of working in a hybrid cloud/datacenter environment.</li>
         </ul>
-        {/* </ProjectDescription> */}
       </Wrapper>
     </ProjectPage>
   );

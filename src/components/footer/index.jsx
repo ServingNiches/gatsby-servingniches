@@ -41,52 +41,52 @@ export default class Footer extends Component {
                       <div className="col-6 col-sm-3 mb-40 mb-sm-0">
                         <h5 className="mb-20">Other Pages</h5>
                         <p className="mb-5">
-                          <Link to="/about">About</Link>
-                        </p>
+                            <Link to="/about">About</Link>
+                          </p>
                         <p className="mb-5">
-                          <Link to="/work">Work</Link>
-                        </p>
+                            <Link to="/work">Work</Link>
+                          </p>
                         <p className="mb-5">
-                          <Link to="/blog">Blog</Link>
-                        </p>
+                            <Link to="/blog">Blog</Link>
+                          </p>
                         <p className="mb-5">
-                          <Link to="/contact">Contact</Link>
-                        </p>
+                            <Link to="/contact">Contact</Link>
+                          </p>
                         <p className="mb-5">
-                          <OutboundLink to="https://teespring.com/stores/serving-niches-store">Shop</OutboundLink>
-                        </p>
+                            <OutboundLink to="https://teespring.com/stores/serving-niches-store">Shop</OutboundLink>
+                          </p>
                       </div>
                       <div className="col-6 col-sm-3 mb-40 mb-sm-0" />
                       <div className="col-6 col-sm-3">
                         <h5 className="mb-20">Contact Me</h5>
                         <p className="mb-5">
-                          <OutboundLink to="mailto:hello@servingniches.com">hello@servingniches.com</OutboundLink>
-                        </p>
+                            <OutboundLink to="mailto:hello@servingniches.com">hello@servingniches.com</OutboundLink>
+                          </p>
                       </div>
                       <div className="col-6 col-sm-3">
                         <h5 className="mb-20">Follow Me</h5>
                         <br />
                         <nav>
-                          <OutboundLink to="https://github.com/rtre84/">
-                            <Icon name="github" />
-                          </OutboundLink>
-                            &nbsp;&nbsp;&nbsp;
-                          <OutboundLink to="https://www.linkedin.com/in/anupvasudevan">
-                            <Icon name="linkedin" />
-                          </OutboundLink>
-                            &nbsp;&nbsp;&nbsp;
-                          <OutboundLink to="https://twitter.com/thechronicler/">
-                            <Icon name="twitter" />
-                          </OutboundLink>
-                            &nbsp;&nbsp;&nbsp;
-                        </nav>
+                            <OutboundLink to="https://github.com/rtre84/">
+                                <Icon name="github" />
+                              </OutboundLink>
+                                                &nbsp;&nbsp;&nbsp;
+                            <OutboundLink to="https://www.linkedin.com/in/anupvasudevan">
+                                <Icon name="linkedin" />
+                              </OutboundLink>
+                                                &nbsp;&nbsp;&nbsp;
+                            <OutboundLink to="https://twitter.com/thechronicler/">
+                                <Icon name="twitter" />
+                              </OutboundLink>
+                                                &nbsp;&nbsp;&nbsp;
+                          </nav>
                       </div>
                     </div>
                   </div>
                   <div className="row justify-content-between align-items-center text-center text-sm-left p-40">
                     <div id="copyright" className={styles.footerCopyrightCenter}>
                       <p>
-&copy; 2008 &mdash; Current Year ;) &mdash; Serving Niches &mdash; All rights reserved
+                                            &copy; 2008 &mdash; Current Year ;) &mdash; Serving Niches &mdash; All rights reserved
                       </p>
                     </div>
                   </div>
