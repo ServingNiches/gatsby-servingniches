@@ -1,12 +1,9 @@
 import React from 'react';
-import Link from 'gatsby-link';
 
 import Fullscreen from '../fullscreen';
 import Wrapper from '../wrapper';
-import GetResponseEmailSignup from '.';
 
 import styles from './styles.module.css';
-
 
 const getresponseEmailSignup = ({ location }) => (
   <div>
