@@ -1,16 +1,9 @@
 import React from 'react';
-// import Link from 'gatsby-link';
 import { Link } from 'gatsby';
 
 import ContentPage from '../../components/content-page';
 import Meta from '../../components/meta';
-import OutboundLink from '../../components/outbound-link';
 import Wrapper from '../../components/wrapper';
-
-import ahmSrc from './img/ahm.png';
-import inlightSrc from './img/inlight.png';
-import lighthouseSrc from './img/lighthouse.png';
-
 
 import styles from './styles.module.css';
 
@@ -22,27 +15,27 @@ const About = ({ location }) => (
         <section className={styles.intro}>
           <h1>About</h1>
           <p>
-Hi there. I’m a software developer based out of Boston, MA. The work I do, these days, revolves mostly
-              around peta-byte scale distributed systems. Occasional freelancing and technical blogging have both
-              given me a good reason to try and keep up with the various spaces discussed here.
+            Hi there. I’m a software developer based out of Boston, MA. The work I do, these days, revolves mostly
+            around peta-byte scale distributed systems. Occasional freelancing and technical blogging have both
+            given me a good reason to try and keep up with the various spaces discussed here.
           </p>
 
           <p>
-My focus for the past 7 years has been on consulting and building software at brands like Directv, DSW,
-              T-Mobile, Houghton Mifflin Harcourt, Wellington Management, Thesys CAT (a subsidiary of Thesys Tech
-              formerly known as Tradeworx, Inc.) . Prior to that I used to do freelance web development and work at a
-              small business called Eagle Stationery Est. based out of the United Arab Emirates.
+            My focus for the past 7 years has been on consulting and building software at brands like Directv, DSW,
+            T-Mobile, Houghton Mifflin Harcourt, Wellington Management, Thesys CAT (a subsidiary of Thesys Tech
+            formerly known as Tradeworx, Inc.) . Prior to that I used to do freelance web development and work at a
+            small business called Eagle Stationery Est. based out of the United Arab Emirates.
           </p>
 
           <p>
-Serving Niches focuses on Software Engineering, the more technical aspects of Online Marketing,
-              Niche Marketing, Analytics, Fintech, Blockchain and occasionally AI and its various subsets.
+            Serving Niches focuses on Software Engineering, the more technical aspects of Online Marketing,
+            Niche Marketing, Analytics, Fintech, Blockchain and occasionally AI and its various subsets.
           </p>
 
           <p>
-If you have a project in mind,
+            If you have a project in mind,
             <Link to="/contact">get in touch</Link>
-.
+            .
           </p>
         </section>
         <aside className={styles.skills}>

@@ -21,7 +21,7 @@ const Ahm = ({ location }) => {
       <Wrapper>
         <h3>Project</h3>
         <p>
-          Helped maintain an ATG powered distributed front-end and backend to serve nearly 4 million ecommerce customers per month.
+          Helped maintain an ATG powered distributed front-end and backend to serve nearly 8 million visitors per month.
         </p>
         <ul className={styles.responsibilities}>
           <li>Establish and maintain best in-class web analytics across DSW.com</li>
