@@ -66,7 +66,7 @@
     "stringstream": ">=0.0.6"
   },
   "scripts": {
-    "lint": "eslint --ext .js,.jsx --ignore-path .gitignore .",
+    "lint": "eslint --ext .js,.jsx --ignore-path .gitignore . --fix",
     "build": "rm -rf public; gatsby build",
     "develop": "gatsby develop"
   }
