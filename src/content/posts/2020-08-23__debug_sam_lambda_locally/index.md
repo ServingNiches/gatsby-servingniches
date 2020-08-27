@@ -1,5 +1,5 @@
 ---
-title: Debugging SAM Based Lambdas Locally 
+title: Debugging SAM Based Lambdas Written In TypeScript Locally 
 subTitle: with WebStorm
 categories: ["TypeScript"]
 cover: ./31313693756_407e6578c4_c.jpg
@@ -10,15 +10,20 @@ date: 2019-06-03
 
 ![cover-image](./31313693756_407e6578c4_c.jpg)
 
-Install AWS SAM cli tool. Instructions on how to do so for your OS can be found at https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
+If you're writing out serverless apps or services using the AWS Serverless Application Model (SAM), then there's one 
+problem you've run into - setting breakpoints and debugging it the old fashioned way. The AWS toolkit currently does 
+not support debugging typescript with Webstorm. I hope this article helps you set up debugging in your TypeScript Lambda 
+repo of choice.    
 
-Install Docker if not already available. Instructions on how to do so can be found at https://docs.docker.com/get-docker/
+- Install AWS SAM cli tool. Instructions on how to do so for your OS can be found at https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
 
-The working TypeScript Lambda starter can be found at https://github.com/rtre84/typescript-aws-sam
+- Install Docker if not already available. Instructions on how to do so can be found at https://docs.docker.com/get-docker/
+
+- The working TypeScript Lambda starter can be found at https://github.com/rtre84/typescript-aws-sam
 
 The starter has .idea folder which when opened in your favourite Jetbrains IDE, ends up automatically inheriting the configuration as well. Please thank the kind soul who decided to do this. 
  
-Install AWS Toolkit for Webstorm. This should give you the SAM Lambda local debug option. 
+- Install AWS Toolkit for Webstorm. This should give you the SAM Lambda local debug option. 
 
 Instructions on installing the toolkit can be found at https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/setup-toolkit.html
 
@@ -77,9 +82,11 @@ export const wrapper: (fn: Handler) => LambdaProxyHandler = (fn: Handler): Lambd
 
 The wrapper function can be found at https://github.com/rtre84/typescript-aws-sam/blob/master/hello-world/mw/mw.ts
 
+- Right click the directory that contains your TypeScript Lambda source code and choose ```Mark directory as```.
+ In the submenu that follows, choose ```Resource Root```. This should solve most problems of the lambda handler not 
+ being found.
+
 ### The configuration for the debugger
-
-
 
 ![debug-config-image](./run_debug_configuration.png)
 
