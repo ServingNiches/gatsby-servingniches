@@ -1,14 +1,12 @@
 ---
-title: Debugging SAM Based Lambdas Written In TypeScript Locally 
+title: Debugging AWS SAM Based Lambdas Written In TypeScript Locally 
 subTitle: with WebStorm
 categories: ["TypeScript"]
-cover: ./31313693756_407e6578c4_c.jpg
+cover: ./25169160699_dae993e7a8_k.jpg
 date: 2019-06-03
 ---
 
-## with WebStorm
-
-![cover-image](./31313693756_407e6578c4_c.jpg)
+![cover-image](./25169160699_dae993e7a8_k.jpg)
 
 If you're writing out serverless apps or services using the AWS Serverless Application Model (SAM), then there's one 
 problem you've run into - setting breakpoints and debugging it the old fashioned way. The AWS toolkit currently does 
@@ -174,4 +172,4 @@ and debug away by clicking ![debug-button](./debug-button.png)
 ### Appendix
 Another TypeScript Lambda Starter: https://github.com/mir4ef/aws-lambda-typescript-starter
 
-[Flickr Image Source](https://www.flickr.com/photos/ralfs-fotos/31313693756/in/photolist-M4tes3-2fivi8d-PH5ScE-2iUribi-SaDBt8-GPd4nq-yuSLjF-FoCSpK-Zq8QuC-CM5Jv3-2iN5eds-2gUyZQq-2cYMCcH-2f94zrk-2jnKakA-2iQdnTW-Wg6sym-QrB3H4-az1dcY-2hE6FuV-2hVk7PR-bHjW1n-2iYTSqK-2gWSSnw-223pH9i-RXeNo3-2gZAN2w-HHVuFX-QoYwm8-2hoyAL6-2jaLrDn-2gjURbg-GXzF4U-GPERjm-2hLPJvx-2iMuEK2-ZgcuU1-Ed38D6-2ikouAq-ZncPwf-LXEKWn-2in7gwB-2jvcyhh-2g7zZkP-2b2mgRp-YPhZtf-2hJ4JjH-22LLNcB-HhSfov-F6uvSL/)
+[Flickr Image Source](https://www.flickr.com/photos/pagedooley/25169160699/in/photolist-Em7wAx-aRVsKv-rcJuLr-AyUxTf-96RucU-qiUL-2jf67N4-69Yugv-2hYWb3T-2jy8Aza-pcGzVY-2j1Q9ps-rrEdsm-rac7Df-quYb1c-quL1zU-rpsCN5-rabb5o-rpsDas-quL1af-rpsD69-rpsCVu-2jpcf7x-2iZfWLL-2iX6zAk-2j25Jg2-2bzcLQ-2iZfWKZ-akhS9Y-8gSPsR-4qzfNu-2o3zry-4rURJR-51qgSf-2jvWpdz-2jycW34-9t9ex-Bux4oA-4HYU56-2jxXVpx-2jxEJ1Q-2jxFN3m-2jsK162-9uK6cj-9A6zhw-9uFKug-29nsiJJ-FVSBun-2jxEDUi-5nP2AJ)
