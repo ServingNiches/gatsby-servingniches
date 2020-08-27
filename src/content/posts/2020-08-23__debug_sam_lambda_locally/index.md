@@ -1,5 +1,5 @@
 ---
-title: Debugging AWS SAM Based Lambdas Written In TypeScript Locally 
+title: Debugging SAM Based TypeScript Lambdas 
 subTitle: with WebStorm
 categories: ["TypeScript"]
 cover: ./25169160699_dae993e7a8_k.jpg
