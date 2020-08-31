@@ -60,7 +60,7 @@ export default class Footer extends Component {
                     <div className="col-6 col-sm-3">
                       <h5 className="mb-20">Contact Me</h5>
                       <p className="mb-5">
-                        <OutboundLink to="mailto:hello@servingniches.org">hello@servingniches.com</OutboundLink>
+                        <OutboundLink to="mailto:hello@servingniches.org">hello@servingniches.org</OutboundLink>
                       </p>
                     </div>
                     <div className="col-6 col-sm-3">

@@ -1,7 +1,7 @@
 import Typography from 'typography';
 
 const typography = new Typography({
-  title: 'Servingniches.com',
+  title: 'Servingniches.org',
   baseFontSize: '18px',
   baseLineHeight: 1.45,
   headerFontFamily: [

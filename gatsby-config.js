@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Anup Vasudevan',
-    url: 'https://servingniches.com',
+    url: 'https://servingniches.org',
     description: 'Anup Vasudevan is a software developer who blogs about online marketing, blockchain, ',
   },
   plugins: [
