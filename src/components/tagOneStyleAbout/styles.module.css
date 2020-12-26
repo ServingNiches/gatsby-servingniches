@@ -20,10 +20,10 @@
 }
 
 @media (--small) {
-  .intro h1 {
-    font-size: 1.7142rem;
+  .tagOneAbout {
+    margin-top: 21px;
   }
-  .link {
-    border-width: 2px;
-  }
+  /*.link {*/
+  /*  border-width: 2px;*/
+  /*}*/
 }

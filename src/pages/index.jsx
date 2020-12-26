@@ -17,11 +17,12 @@ const Index = ({ location }) => (
       <Fullscreen className={styles.intro} firstItem>
         <Wrapper>
           <h1>
-            Hi there. I’m Anup Vasudevan.
             <br />
+            Hi there.
+            <br />
+            I’m Anup Vasudevan.
             <br />
             Welcome to Serving Niches.
-            <br />
             <br />
             Check out the
             {' '}

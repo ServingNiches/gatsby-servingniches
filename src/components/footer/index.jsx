@@ -56,14 +56,8 @@ export default class Footer extends Component {
                         <OutboundLink to="https://teespring.com/stores/serving-niches-store">Shop</OutboundLink>
                       </p>
                     </div>
-                    <div className="col-6 col-sm-3 mb-40 mb-sm-0" />
-                    <div className="col-6 col-sm-3">
-                      <h5 className="mb-20">Contact Me</h5>
-                      <p className="mb-5">
-                        <OutboundLink to="mailto:hello@servingniches.org">hello@servingniches.org</OutboundLink>
-                      </p>
-                    </div>
-                    <div className="col-6 col-sm-3">
+                    <div className="contactAndFollow" />
+                    <div className="col-6 col-sm-3 followMe">
                       <h5 className="mb-20">Follow Me</h5>
                       <br />
                       <nav>
@@ -80,6 +74,12 @@ export default class Footer extends Component {
                         </OutboundLink>
                         &nbsp;&nbsp;&nbsp;
                       </nav>
+                    </div>
+                    <div className="col-6 col-sm-3 contactMe">
+                      <h5 className="mb-20">Contact Me</h5>
+                      <p className="mb-5">
+                        <OutboundLink to="mailto:hello@servingniches.org">hello@servingniches.org</OutboundLink>
+                      </p>
                     </div>
                   </div>
                 </div>

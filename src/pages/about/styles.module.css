@@ -92,11 +92,18 @@
 
 @media (--small) {
   .intro, .referral {
-    width: calc(12 / var(--columnCount) * 100%);
+    /*width: calc(12 / var(--columnCount) * 100%);*/
   }
 
   .referral img {
     display: none;
+  }
+
+  .about, .intro {
+  }
+
+  .skills {
+    display: hidden;
   }
 }
 

@@ -14,11 +14,11 @@ const tagOneStyleAbout = ({ location }) => (
           <div className="container">
             <div className="row justify-content-between">
               <div style={{ float: 'left' }} className="col-12 col-sm-6 col-lg-5 mb-40 mb-sm-0">
-                <h5 className="mb-15">About</h5>
                 <h1 className="mb-20">What</h1>
-                <h1 className="mb-20">Serving Niches Explores</h1>
+                <h1 className="mb-20">This Site Explores</h1>
+                <br />
               </div>
-              <div style={{ float: 'right' }} className="col-12 col-sm-6">
+              <div style={{ float: 'right' }} className="col-12 col-sm-6 tagOneAbout">
                 <h4 className="mb-40">
                     Serving Niches focuses on Software Engineering, the more technical aspects of
                     Online Marketing, Niche Marketing, Analytics, Fintech, Blockchain and occasionally AI and
@@ -26,10 +26,7 @@ const tagOneStyleAbout = ({ location }) => (
                 </h4>
                 <br />
                 <div className="b-500">
-Having had to implement these in the past - I keep finding myself
-                    wishing they were more accessible. My hope is that this site and producing content
-                    will help document these topics
-                    a bit better. No technology has survived by being inaccessible after all.
+                  Having had to implement these in the past - I keep finding myself wishing they were more accessible. I hope this site and producing content will ultimately help document these topics a lot better. Inaccessible technology will never survive.
                 </div>
               </div>
             </div>
