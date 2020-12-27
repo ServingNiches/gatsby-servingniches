@@ -38,6 +38,8 @@ const About = ({ location }) => (
             .
           </p>
         </section>
+        <br />
+        <br />
         <section className={styles.skills}>
           <div>
             <h3>Skills</h3>

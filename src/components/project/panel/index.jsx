@@ -16,8 +16,8 @@ const ProjectPanel = ({ project }) => (
     <Wrapper>
       <div className={styles.inner} style={{ backgroundImage: `url(${project.cover})`, backgroundSize: '200px' }}>
         <div className={styles.content}>
-          <h2>{project.title}</h2>
-          <p>{project.description}</p>
+          {/* <h2>{project.title}</h2> */}
+          <p className={styles.paragraph}>{project.description}</p>
         </div>
       </div>
     </Wrapper>

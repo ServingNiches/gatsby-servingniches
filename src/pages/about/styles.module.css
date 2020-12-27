@@ -15,7 +15,7 @@
 }
 
 .intro {
-  width: calc(7 / var(--columnCount) * 100%);
+  /*width: calc(7 / var(--columnCount) * 100%);*/
   padding-right: var(--gutter);
   font-size: 1.125rem;
   line-height: 1.7;
@@ -23,7 +23,7 @@
 }
 
 .skills {
-  width: calc(5 / var(--columnCount) * 100%);
+  /*width: calc(5 / var(--columnCount) * 100%);*/
   font-size: 1rem;
   padding-left: calc(1 / var(--columnCount) * 100%);
   position: relative;
@@ -100,10 +100,11 @@
   }
 
   .about, .intro {
+    /*width: 300px;*/
   }
 
   .skills {
-    display: hidden;
+    display: none;
   }
 }
 

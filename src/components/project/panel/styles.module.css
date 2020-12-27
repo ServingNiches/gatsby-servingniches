@@ -20,6 +20,23 @@
   justify-content: center;
 }
 
+/* Portrait fix for mobile that --small doesn't seem to hit */
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: portrait) {
+  .inner, .content {
+    display: -moz-grid;
+    background-position: center;
+  }
+
+  .content > p {
+    display: none;
+  }
+}
+
+
 .content {
   width: calc(5 / var(--columnCount) * 100%);
   padding-right: var(--gutter);
@@ -64,19 +81,4 @@
 .click .inner {
   background-position-x: 75%;
   background-size: auto 65%;
-}
-
-@media (--small) {
-  .inner {
-    background-image: none !important;
-    height: 20vh;
-    min-height: 200px;
-  }
-
-  .content {
-    width: calc(12 / var(--columnCount) * 100%);
-    padding-right: 0;
-    height: auto;
-    margin-left: 0 !important;
-  }
 }
