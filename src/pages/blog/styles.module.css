@@ -50,3 +50,14 @@ a {
 .clear {
     clear: both;
 }
+
+/* To fix broken disclaimer on blog page for Galaxy Fold */
+/* Portrait */
+@media screen
+and (device-width: 280px)
+and (device-height: 653px)
+and (orientation: portrait) {
+  .disclaimer {
+      height: auto;
+  }
+}
