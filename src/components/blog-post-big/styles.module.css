@@ -24,6 +24,16 @@ and (orientation: portrait) {
     }
 }
 
+/* Fix for Samsung A20 Portrait */
+@media screen
+and (device-width: 412px)
+and (device-height: 757px)
+and (orientation: portrait) {
+    .panel_big {
+        height: 600px;
+    }
+}
+
 /* Galaxy Fold Portrait */
 @media screen
 and (device-width: 280px)
