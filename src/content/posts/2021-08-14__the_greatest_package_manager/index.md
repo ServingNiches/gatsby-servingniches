@@ -21,13 +21,13 @@ another 100 extensions I didn't know I was using, and so on and so forth.
 out of the box. So if you are thinking of buying a Mac with an M1 chip, expect 
 to go through some suffering during setup.
 
-![Mac config used for this article](./Screenshot%202021-08-13%20at%207.07.15%20PM.png)
+![Mac config used for this article](./macosM1Details.png)
 
 ### Wouldn't life be easier if you had one package manager that could install it all?
 Enter [asdf](http://asdf-vm.com/). Mac and Linux variants are supported well. Sorry, Windows users 
 but no windows support at this time.
 
-![asdf homepage](./Screenshot%202021-08-13%20at%207.16.21%20PM.png)
+![asdf homepage](./asdfHomepage.png)
 
 With asdf, you can do what they call a separate global and local setup for various languages and versions.
 
@@ -78,7 +78,7 @@ git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.1
 Installing asdf is the one place where it gets tricky. Make sure to look over the official 
 site for your specific setup. I will be going for Zsh and Git.
 
-![Zsh and git](./Screenshot%202021-08-15%20at%2012.34.09%20AM.png)
+![Zsh and git](./asdfZshGit.png)
 
 Find your specific set of circumstances on the official site for this step and 
 follow them. It's as simple as that.
