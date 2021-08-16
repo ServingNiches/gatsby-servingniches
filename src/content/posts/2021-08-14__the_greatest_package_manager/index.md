@@ -21,7 +21,7 @@ another 100 extensions I didn't know I was using, and so on and so forth.
 out of the box. So if you are thinking of buying a Mac with an M1 chip, expect 
 to go through some suffering during setup.
 
-![Mac config used for this article](./macosM1Details.png)
+![Mac config used for this article](./macosM1Details_blurred.png)
 
 ### Wouldn't life be easier if you had one package manager that could install it all?
 Enter [asdf](http://asdf-vm.com/). Mac and Linux variants are supported well. Sorry, Windows users 
