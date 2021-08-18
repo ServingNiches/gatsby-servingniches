@@ -174,6 +174,16 @@ Typing ```nodejs -v``` should now give you that familiar output.
 
 ## An Awesome Practical Example: Wolfbot
 
+**TLDR**: This is NOT financial advice.
+
+**DISCLAIMER**:
+>The material on this website is provided for informational purposes only and does not constitute an offer to sell, a solicitation to buy, or a recommendation or endorsement for any security or strategy, nor does it constitute an offer to provide investment advisory services by Servingniches or me.
+
+>In addition, the material offers no opinion with respect to the suitability of any security or specific investment. No information contained herein should be regarded as a suggestion to engage in or refrain from any investment-related course of action as none of Servingniches nor any of its affiliates is undertaking to provide investment advice, act as an adviser to any plan or entity subject to the Employee Retirement Income Security Act of 1974, as amended, individual retirement account or individual retirement annuity, or give advice in a fiduciary capacity with respect to the materials presented herein. If you are an individual retirement or other investor, contact your financial advisor or other fiduciary unrelated to Servingniches about whether any given investment idea, strategy, product or service described herein may be appropriate for your circumstances. All investments involve risk, including loss of principal. Servingniches makes no guarantees as to the accuracy or completeness of the views expressed in the website. The views are subject to change, and may have become unreliable for various reasons, including changes in market conditions or economic circumstances.
+
+
+Now that we got that out of the way ...
+
 So the project that we're looking to install or use as an example for this is Wolfbot.
 You can find it at https://github.com/Ekliptor/WolfBot . 
 
