@@ -268,9 +268,16 @@ Final steps to run everything installed so far.
 
 ```shell
 yarn install
-yarn tsc # to compile all TypeScript files. Ignore the errors.
+yarn tsc # to compile all TypeScript files. Ignore the errors. Press Ctrl-C once you see the watch message.
+# the default node_module download for this particular package doesn't 
+# seem to have a build directory so we're building one
+yarn tsc --project node_modules/@ekliptor/bit-models/tsconfig.json # to compile all TypeScript files. Ignore the errors. Press Ctrl-C once you see the watch message. 
+# Finally to run the bot
 node build/app.js --debug --config=WhaleWatcher.json --trader=RealTimeTrader --noUpdate --noBrowser
 ```
+
+You will additional configuration like api keys for various exchanges to get the bot 
+running fully but the above was meant to get the bot in a runnable state.
 
 ### Appendix
 
