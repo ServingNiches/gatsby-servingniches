@@ -8,8 +8,8 @@ date: 2021-08-18
 
 ![cover-image](./stock-market-6531146_1280.jpeg)
 
-For the previous article on installing asdf
-https://anup-vasudevan.medium.com/the-greatest-package-manager-at-the-moment-e6d3547e510b
+For the previous article on installing asdf   
+https://servingniches.org/posts/2021-08-14__the_greatest_package_manager/
 
 **DISCLAIMER**: This is NOT financial advice.
 
