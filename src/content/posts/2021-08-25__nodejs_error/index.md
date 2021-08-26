@@ -8,11 +8,11 @@ date: 2021-08-25
 
 ![cover-image](./cathedral-6539937_1280.jpg)
 
-For the previous article on installing asdf   
-https://servingniches.org/posts/2021-08-14__the_greatest_package_manager/
-
 This is going to be a short article. Not much of an educational post but
 more of a straight to the point solution post.
+
+For the previous article on installing asdf   
+https://servingniches.org/posts/2021-08-14__the_greatest_package_manager/
 
 ![nodejs-error](./nodejs_error.png)
 

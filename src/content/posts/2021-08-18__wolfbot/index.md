@@ -8,14 +8,14 @@ date: 2021-08-18
 
 ![cover-image](./stock-market-6531146_1280.jpeg)
 
-For the previous article on installing asdf   
-https://servingniches.org/posts/2021-08-14__the_greatest_package_manager/
-
 **DISCLAIMER**: This is NOT financial advice.
 
 The material in this article is provided for informational purposes only and does not constitute an offer to sell, a solicitation to buy, or a recommendation or endorsement for any security or strategy, nor does it constitute an offer to provide investment advisory services by Servingniches or me.
 
 Now that we got that out of the way ...
+
+For the previous article on installing asdf   
+https://servingniches.org/posts/2021-08-14__the_greatest_package_manager/
 
 ### The Good Stuff
 
