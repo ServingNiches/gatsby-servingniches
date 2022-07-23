@@ -21,7 +21,7 @@
     "gatsby-plugin-manifest": "^2.0.17",
     "gatsby-plugin-offline": "^2.0.22",
     "gatsby-plugin-react-helmet": "^3.0.6",
-    "gatsby-plugin-sharp": "^2.0.20",
+    "gatsby-plugin-sharp": "^3.13.0",
     "gatsby-remark-copy-images": "^0.2.1",
     "gatsby-remark-embed-snippet": "^3.2.2",
     "gatsby-remark-images": "^3.0.3",
